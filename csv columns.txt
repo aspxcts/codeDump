@@ -1,0 +1,7 @@
+csv columns
+
+image file path, shot type, stance, ball hit, ball land
+
+().jpg,(forehand, backhand, forehand slice, backhand slice, forehand dropshot, backhand dropshot),(open, close),(deuce back, body back, ad back, deuce mid, body mid, ad mid, deuce front, mid front, ad front), (deuce deep, body deep, ad deep, deuce mid, body mid, ad mid, deuce short, body short, ad short)
+
+forehandopendeucebackdeucedeep.jpg,forehand,open,deuce back, deuce deep
